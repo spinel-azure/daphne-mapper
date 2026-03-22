@@ -4,7 +4,7 @@ Wizardry Variants Daphne 用の
 ブラウザベース・ダンジョンマッピング支援ツールです。
 
 ## 🔗 公開URL
-https://spinel-azure.github.io/dungeon-mapper/
+https://spinel-azure.github.io/daphne-mapper/
 
 ## 🧭 概要
 本ツールは、Wizardry Variants Daphne のダンジョン探索時に  
