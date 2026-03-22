@@ -71,8 +71,9 @@ See LICENSE.md for the full terms.
 
 <details>
 <summary><strong>## 📝 Changelog / 更新履歴（クリックで開く）</strong></summary>
-### リポジストリ名およびツール名を変更（2026-03-22)
-- Renamed the repository and the tool.
+###（2026-03-22)
+  リポジストリ名およびツール名を変更
+  Renamed the repository and the tool.
 
 ### v2f_patched (2025-12-24)
 
